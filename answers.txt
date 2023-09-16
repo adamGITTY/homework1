@@ -5,4 +5,4 @@ Meanwhile, a Git Rebase command applies commits on top of another branch and rew
 
 What is a remote repository?
 
-A remote repository is just a Git repository, a collection of shared filed, that is hosted on a remote network like the internet.
+A remote repository is just a Git repository, a collection of shared files, that is hosted on a remote network like the internet.
